@@ -3,9 +3,9 @@
 - NoSlowBypass [java]
 - Zori [java]
 - Esdeath [java]
-- Catalyst (some modules) [java]
-- list short because i've only been developing for a short period of time :^)
-### Contact me
+- Catalyst (only some modules, rather schtewpid innit) [java]
+- list is bloody short mate, bu' that's because i've only been developing for a shor' period of time :^)
+### Check out me socials will ya:
 - Discord: novola#0666
 - Minecraft: Novola
 - Twitter: @Novola4
